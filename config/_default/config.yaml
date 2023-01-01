@@ -1,7 +1,7 @@
 baseURL: /
 title: Viral's blog
 theme: hugo-theme-bootstrap
-copyright: 'Copyright © 2023-{year} Viral Vaghela. All Rights Reserved.'
+copyright: 'Copyright © 2023 Viral Vaghela. All Rights Reserved.'
 defaultContentLanguage: en
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
